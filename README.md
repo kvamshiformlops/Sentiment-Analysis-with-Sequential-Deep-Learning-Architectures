@@ -23,6 +23,9 @@ This project explores and compares different neural network architectures for se
   - Mixed case, punctuation, and special characters
 - **Labels**: Binary (Positive/Negative)
 
+- You can get the dataset from the website https://ai.stanford.edu/~amaas/data/sentiment/
+
+  
 ### Data Preprocessing Pipeline
 
 1. **Text Cleaning**
